@@ -19,7 +19,7 @@
 
 <h4 align="left">💻 Languages and Tools:</h4>
 
-<table align="left"> 
+<table align="center"> 
 
  <tr>
 <td align="center" width="96">
