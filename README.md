@@ -19,7 +19,7 @@
 
 <h4 align="left">💻 Languages and Tools:</h4>
 
-<table align="center"> 
+<table align="left"> 
 
  <tr>
 <td align="center" width="96">
@@ -65,7 +65,8 @@
 </tr>
 </table>
 
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haseebasim&show_icons=true&locale=en&layout=compact" alt="haseebasim" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haseebasim&show_icons=true&locale=en&layout=compact" alt="haseebasim" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=haseebasim&show_icons=true&locale=en" alt="haseebasim" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=haseebasim&show_icons=true&locale=en" alt="haseebasim" /></p>
