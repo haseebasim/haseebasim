@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **AWS Services & Go**.
 - 💬 I love to talk about **React, Next, AWS, Full Stack Development**.
 - 💎 I am interested in learning about **Cloud Computing** and **BlockChain**.
-- 📩 You can reach out to me via **[Email](haseebzaidi321@gmail.com)**.
+- 📩 You can reach out to me via **[Email](mailto:haseebzaidi321@gmail.com)**.
 - ⚡ Constantly learning new technologies.
 
 <h4 align="left">💻 Languages and Tools:</h4>
