@@ -11,9 +11,9 @@
 <br/>
 
 - 👨‍💻 I am currently working as an **Associate Software Engineer @ RipeSeed**.
-- 🌱 I'm currently learning **AWS Services & Go**.
+- 🌱 I'm currently learning **Nest Js**.
 - 💬 I love to talk about **React, Next, AWS, Full Stack Development**.
-- 💎 I am interested in learning about **Cloud Computing** and **BlockChain**.
+- 💎 I am interested in learning about **Cloud Computing** and **Software architecture**.
 - 📩 You can reach out to me via **[Email](mailto:haseebzaidi321@gmail.com)**.
 - ⚡ Constantly learning new technologies.
 
